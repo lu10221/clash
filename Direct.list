@@ -40,6 +40,10 @@ DOMAIN-SUFFIX,so.com
 # 58
 DOMAIN-SUFFIX,58.com
 
+# SDS
+DOMAIN-SUFFIX,sdspod.com
+DOMAIN-SUFFIX,sdsdiy.com
+
 # Alibaba
 DOMAIN-SUFFIX,1688.com
 DOMAIN-SUFFIX,aliapp.org
