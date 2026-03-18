@@ -1,3 +1,31 @@
+# 自用
+DOMAIN-SUFFIX,thirdweb.com
+DOMAIN-SUFFIX,streamflow.foundation
+DOMAIN-SUFFIX,myx.finance
+DOMAIN-SUFFIX,humanity.org
+DOMAIN-SUFFIX,usual.money
+DOMAIN-SUFFIX,synfutures.foundation
+DOMAIN-SUFFIX,gift.xyz
+DOMAIN-SUFFIX,lingocoin.io
+DOMAIN-SUFFIX,nodepay.ai
+DOMAIN-SUFFIX,usuali.money
+DOMAIN-SUFFIX,blockscout.com
+DOMAIN-SUFFIX,mirror.xyz
+DOMAIN-SUFFIX,magiceden.io
+DOMAIN-SUFFIX,orbiter.finance
+DOMAIN-SUFFIX,jaspervault.io
+DOMAIN-SUFFIX,kaito.ai
+DOMAIN-SUFFIX,galxe.com
+DOMAIN-SUFFIX,gate.io
+DOMAIN-SUFFIX,gateio.live
+DOMAIN-SUFFIX,gateimg.com
+DOMAIN-SUFFIX,gate.com
+DOMAIN-SUFFIX,discord.com
+DOMAIN-SUFFIX,discordapp.com
+DOMAIN-SUFFIX,discord.gg
+DOMAIN-SUFFIX,discord.media
+
+
 # BlockChain Surge Rule List
 DOMAIN-SUFFIX,binance.com
 DOMAIN-SUFFIX,binance.cloud
