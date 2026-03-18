@@ -3,6 +3,32 @@ IP-CIDR,142.171.133.131/32,no-resolve
 IP-CIDR,103.115.43.2/32,no-resolve
 IP-CIDR,104.236.69.0/24,no-resolve
 
+# 自建
+DOMAIN-SUFFIX,58catnet.com
+DOMAIN-SUFFIX,heygen.com
+DOMAIN-SUFFIX,ideogram.ai
+DOMAIN-SUFFIX,temu.com
+DOMAIN-SUFFIX,tartagames.com
+DOMAIN-SUFFIX,iamfy.co
+DOMAIN-SUFFIX,bsquared.network
+DOMAIN-SUFFIX,freedif.org
+DOMAIN-SUFFIX,javdb.com
+DOMAIN-SUFFIX,xiaoya.pro
+DOMAIN-SUFFIX,pornhub.com
+DOMAIN-SUFFIX,avmoo.host
+DOMAIN-SUFFIX,alistgo.com
+DOMAIN-SUFFIX,javbus.com
+DOMAIN-SUFFIX,hanime1.me
+DOMAIN-SUFFIX,xchina.co
+DOMAIN-SUFFIX,xslist.org
+DOMAIN-SUFFIX,wmhotmail.com
+DOMAIN-SUFFIX,laowang.vip
+DOMAIN-SUFFIX,theporndude.com
+DOMAIN-SUFFIX,stripchat.com
+DOMAIN-SUFFIX,41yun.com
+DOMAIN-SUFFIX,ldplayer.net
+DOMAIN-SUFFIX,stripe.com
+
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
 DOMAIN-SUFFIX,1dot1dot1dot1.cloudflare-dns.com
