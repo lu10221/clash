@@ -13,6 +13,35 @@ DOMAIN-KEYWORD,baidu
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
 
+# 自用
+DOMAIN-SUFFIX,bilibili.com
+DOMAIN-SUFFIX,sdsdiy.com
+DOMAIN-SUFFIX,sdspod.com
+DOMAIN-SUFFIX,fengsutb.com
+DOMAIN-SUFFIX,801000.xyz
+DOMAIN-SUFFIX,ydtai.com
+DOMAIN-SUFFIX,hicustom.com
+DOMAIN-SUFFIX,haoee.com
+DOMAIN-SUFFIX,judge.me
+DOMAIN-SUFFIX,fishsticksgames.com
+DOMAIN-SUFFIX,makerworld.com
+DOMAIN-SUFFIX,mchost.guru
+DOMAIN-SUFFIX,goofish.pro
+DOMAIN-SUFFIX,kakaya.vip
+DOMAIN-SUFFIX,bibabukaquan.top
+DOMAIN-SUFFIX,yydssjh.top
+IP-CIDR,129.226.52.101/32,no-resolve
+DOMAIN-SUFFIX,hwlwa2.com
+DOMAIN-SUFFIX,khlgamen.com
+DOMAIN-SUFFIX,gigese.com
+DOMAIN-SUFFIX,impact.com
+DOMAIN-SUFFIX,91xinyou.com
+DOMAIN-SUFFIX,xingzhangame.com
+DOMAIN-SUFFIX,wzhiban.com
+DOMAIN-SUFFIX,poddiy.net
+DOMAIN-SUFFIX,aigcpod.com
+DOMAIN-SUFFIX,aihuiwan.com
+
 # 国内DNS
 DOMAIN-SUFFIX,dns.alidns.com
 DOMAIN-SUFFIX,doh.pub
