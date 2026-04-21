@@ -43,6 +43,8 @@ DOMAIN-SUFFIX,aigcpod.com
 DOMAIN-SUFFIX,aihuiwan.com
 DOMAIN-SUFFIX,98faka.top
 IP-CIDR,43.163.107.253/32,no-resolve
+DOMAIN-SUFFIX,linuxdo.org
+
 
 
 # 国内DNS
